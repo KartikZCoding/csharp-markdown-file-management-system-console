@@ -11,7 +11,6 @@ namespace MarkDown_File_Management
     {
         static void Main(string[] args)
         {
-            //call Menus -> MainMenu -> Display()
             MainMenu.Display();
         }
     }
