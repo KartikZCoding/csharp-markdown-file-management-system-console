@@ -27,7 +27,7 @@ namespace TopicRunner.Menus
                 Console.WriteLine();
                 Console.WriteLine("0. Back to Main Menu");
                 Console.WriteLine("======================================");
-                Console.Write("Enter your choice (0-10): ");
+                Console.Write("Enter your choice (0-6): ");
 
                 int.TryParse(Console.ReadLine(), out int choice);
 
